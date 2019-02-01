@@ -69,10 +69,7 @@ body{
 .put a{
 		text-decoration: none;
 }
-h2{
-	float: left;
-}
-h1, .put2{
+h1, h2, .put2{
 	text-align: center;
 	color:red;
 	font-size:36px;
